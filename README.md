@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on game development<br><br> I’m currently learning data science<br>
+ I’m currently working on data management <br><br> I’m currently learning data science<br>
 
 
 ## 🌐 Socials:
